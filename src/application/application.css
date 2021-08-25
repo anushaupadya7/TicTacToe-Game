@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+  -fx-background-color: midnightblue;
+  -fx-padding: 30px;
+  -fx-font-size: 20px;
+  -fx-font-family: "Comic Sans MS";
+}
+
+.Button {
+  -fx-base: antiquewhite;
+}
